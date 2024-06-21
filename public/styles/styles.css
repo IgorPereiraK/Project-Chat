@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+#messages {
+    background-color: aliceblue;
+    width: 500px;
+    height: 700px;
+    padding: 4px;
+}
+
+#message {
+    width: 85%;
+    padding: 6px;
+    margin-top: 4px;
+
+}
+
+#button {
+    padding: 4px;
+}
+
+#user_form {
+    margin-left: 100px;
+}
+
+#user {
+    width: 60%;
+    padding: 4px;
+    margin-bottom: 6px;
+}
+
+#lista {
+    list-style: none;
+    margin-top: 4px;
+}
